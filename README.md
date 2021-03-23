@@ -11,7 +11,7 @@ This repository provides a generic boilerplate for object detection and object c
 The `.yaml` files namely `conda-cpu.yml` and `conda-gpu.yml` are used to store and add dependencies and modules which are required to facilitate the smooth running of the current project. **Anaconda** and **conda** distribution is must to run this projects because it facilitates the usage of GPU version with ease. However, requirements.txt for `pip` can also work.
 ### 2. data directory
 The data directory contains various subdirectories and a **yolov4 wights file whose link is present in the yolov4Weights.txt file.** The file was very large so please do not push it directly into the repo.
-**NOTE: Already added the `data/*.weights` in .gitignore to not push the file to repo. Also there is a text file with the name `weightsFileLink.txt` which contains link to the file which can be downloaded and placed locally.**
+**NOTE: Already added the `data/*.weights` in .gitignore to not push the file to repo.**
 #### Subdirectories of data directory
 ##### 1. images
 This folder will contain all the input images which needs to be recognized.
