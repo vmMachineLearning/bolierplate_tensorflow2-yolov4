@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Extra files and utility
-*.weights
+data/*.weights
