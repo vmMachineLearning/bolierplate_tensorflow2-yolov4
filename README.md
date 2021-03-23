@@ -1,5 +1,8 @@
 # bolierplate_tensorflow2-yolov4
 
+
+[![GitHub license](https://img.shields.io/github/license/vmMachineLearning/bolierplate_tensorflow2-yolov4)](https://github.com/vmMachineLearning/bolierplate_tensorflow2-yolov4/blob/main/LICENSE)
+
 This repository provides a generic boilerplate for object detection and object counting applications. It contains files and directory in an organized manner which are must and needed for any future object detection projects using **YOLOv4** and **Tensorflow2** libraries. 
 
 ## Usage of files
