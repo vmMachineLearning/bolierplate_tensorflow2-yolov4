@@ -28,5 +28,19 @@ This folder is a must to have but currently I'm unaware about why it is being us
 1. The `convert_tflite.py` file converts the trained tensorflow model to light version in order to use it for mobile and edge-devices.
 2. The `detect_video.py` file is used to recognize and return the pattern from a video file.
 
+## Getting started
+---
+
+##### conda[needs to be run in conda terminal]
+```bash
+# Tensorflow CPU
+$ conda env create -f conda-cpu.yml
+$ conda activate yolov4-cpu
+
+# Tensorflow GPU
+$ conda env create -f conda-gpu.yml
+$ conda activate yolov4-gpu
+```
+
 
 
