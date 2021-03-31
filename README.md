@@ -42,5 +42,22 @@ $ conda env create -f conda-gpu.yml
 $ conda activate yolov4-gpu
 ```
 
+### Concepts::
+- Contour Detection
+- Edge Dtection  
 
+/*
+* https://cv-tricks.com/opencv-dnn/edge-detection-hed/#:~:text=Edge%20detection%20is%20useful%20in,text%20analysis%20and%20many%20more.
+* https://medium.com/analytics-vidhya/detecting-and-counting-objects-with-opencv-b0f59bc1e111
+# https://stackoverflow.com/questions/55169645/square-detection-in-image 
+Compact Prediction Tree
+* https://stackoverflow.com/questions/53021082/recognizing-the-bricks-in-a-brick-wall
+* https://stackoverflow.com/questions/55832414/extract-a-fixed-number-of-squares-from-an-image-with-python-opencv
+* https://answers.opencv.org/question/224166/how-to-count-2d-grid-squares-using-python-and-opencv/
+* https://stackoverflow.com/questions/59182827/how-to-get-the-cells-of-a-sudoku-grid-with-opencv
 
+--to be seen--
+https://medium.com/analytics-vidhya/introduction-to-computer-vision-opencv-in-python-fb722e805e8b
+https://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/
+----
+*/
