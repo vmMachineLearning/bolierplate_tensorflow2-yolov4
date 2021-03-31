@@ -30,7 +30,6 @@ This folder is a must to have but currently I'm unaware about why it is being us
 
 ## Getting started
 ---
-
 ##### conda[needs to be run in conda terminal]
 ```bash
 # Tensorflow CPU
